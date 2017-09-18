@@ -1,0 +1,24 @@
+Start each exercise by designing an algorithm (list of steps) to solve the problem.
+
+After you've built the page and inserted the script tags,
+
+place each step of your algorithm in to the space for your script using a comment for each step.
+
+Use selection and repetition structures where appropriate, using your discretion as to the type and location of such
+structures as dictated by your algorithm
+
+Finally, create a block comment at the beginning of your script section in each page.  In the block, put your name,
+the date, the assignment number, exercise number, the course name/number, and a brief description of what the page will
+do when the user brings it up in the browser.
+
+A significant part of your grade will be based upon whether or not you use a decision or loop structure in a place
+where it would make your code more efficient or easier to understand.
+
+Exercises
+
+
+Calculate the cost of a meal.  The restaurant takes 10% off the bill if it's the birthday of anyone in the party.  Ask the user if a tip should be included.  If so, ask the user if the tip is a fixed amount or based on a percentage. Obtain the appropriate value and use it to calculate the tip amount. Display all the values on the page, including the total cost of the meal with tip included.
+Calculate the cost to fertilize a rectangular yard with a house and driveway (both of which are also rectangular).  If the user has a pool, ask for its area as well. Ask the user for the cost per square foot for the fertilizer and the number of applications required.  Use all of these data to calculate a total cost to purchase the fertilizer for the yard.  If, during the entry of all the data, the user enters an invalid value, ask again until the user enters a valid value (for example, a negative number).
+Create a page that converts a range of temperatures from Celsius to Fahrenheit. Ask for the starting and ending temperatures (you'll have to ask the user if the temperatures are F or C) along with the increment to be used. Make sure all of the data are valid, i.e. the ending temperature is greater than the starting temperature and the increment is a positive value that is sensible. If the user enters anything invalid, tell the user what the problem is and ask again until it is entered properly. Once all the data is valid, generate a table that shows each temperature value across the range in both degrees F and degrees C.  Each set of temperatures should take one row in the table.  The length of the table will depend on the number of values the user chooses to display.
+Build a script to determine the cost of a movie ticket.  Movies that begin prior to noon on a weekday cost $10 for adults (18 or older) and $5 for children (under 18). Otherwise, tickets are $15 each for adults and $12 for children. If a movie is rated "R", the customer cannot purchase the ticket if not an adult.  Finally, senior citizens (over 65) get a 10% discount.  Show all the details along with the ticket price after all data has been entered.  Invalid data must be repeatedly asked until valid.
+When finished, compress your folder a file named asg3.zip file

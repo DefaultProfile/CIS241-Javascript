@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MPG Calculating</title>
+</head>
+<body>
+<script type="text/javascript">
+    /*
+    * Name: Nathan Sterk
+    * Date: 9/17/17
+    * Assignment: 3
+    * Exercise: 1
+    * Course: CIS241 Javascript
+    * Description: This script collects data from a user and can calculate the MPG.
+    */
+
+    //Declare Variables
+    var gasMileage;
+    var startingOdom;
+    var endingOdom;
+    var fuelCapcity;
+    var repeatCalc = false;
+
+    //Ask for the first starting odometer reading
+    startingOdom = prompt("Hello and Welcome! What was the starting Odometer reading?");
+
+    //Complete this and loop back if repeatCalc becomes true
+    do {
+        //Ask for the ending odometer readings(miles)
+        endingOdom = prompt("Great! What was the ending odometer reading?");
+
+        //Ask for the gasoline needed to fill the tank (in gallons)
+        fuelCapcity = prompt("Okay, and how many gallons went into your fuel tank?");
+
+        //Subtract ending mileage by the starting mileage
+        //Divide the miles traveled by the amount of gallons needed to refill tank
+        gasMileage = (endingOdom - startingOdom) / fuelCapcity;
+
+        //display all of the input values and the answer
+        alert("Starting Odometer: " + startingOdom + "\nEnding Odometer: " + endingOdom + "\nGallons put " + "into tank: " + fuelCapcity + "\nDuring this trip you had " + gasMileage + " MPG.");
+
+        //Ask the user if they want to enter another odometer reading
+        //Set repeatCalc to true if use clicks ok
+        repeatCalc = (confirm('Would you like to do another calculation?'));
+
+        //(use previous calculation's end reading, as the starting reading if user continues.)
+        if(repeatCalc = true) {
+            startingOdom = endingOdom;
+        }
+    }
+    while(!repeatCalc);
+    document.write("Goodbye");
+</script>
+</body>
+</html>
+
+
+
