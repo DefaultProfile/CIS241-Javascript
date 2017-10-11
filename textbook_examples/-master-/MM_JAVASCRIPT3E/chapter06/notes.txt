@@ -1,0 +1,36 @@
+Animations and Effects
+
+Welcome back! This week, we turn our attention to Chapter 6, where you'll see how jQuery can be used to add visual effects and animation to web pages. These animated effects are easy to implement, and they're fun to create. Best of all, they make the web pages you build more interesting and attractive.
+
+Most jQuery programs require you to select an element on a page, wire an event handler up to it, and write the code that occurs when the event is triggered. You will focus on the event handler code in this chapter as you see how to add a variety of visual effects to elements wihtin your Web pages.
+
+You can know all about how these animated effects work, but you really need to see them to appreciate what they can do. So be sure to try the examples in the chapter. After you realize how easy it is, you may even want to experiment a bit.
+
+Have fun with this chapter, and have a great week!
+------------------------------------------------------
+Chapter 6 | Animations and Effects
+
+Read pages 183 – 208
+
+This chapter shows you how to use jQuery to build animations and effects into your Web pages.
+
+Video Presentations
+These tutorials give you an excellent walkthrough of everything we've learned about jQuery to this point. I suggest you watch them in sequence, and then use them as a reference along with what you glean from the textbook. Click on the video title you're interested in, and it should begin to play in another tab or window within your browser.
+
+Title	Length
+Review of jQuery Basics	13:02
+Working with Selectors	12:27
+jQuery Events	9:26
+jQuery Effects	12:52
+The jQuery animate() method	10:02
+--------------------------------------------------------------------
+This week's assignment has you complete two tutorials from Chapter 6.  Begin by downloading the two Web page files using the links below. Save the files into your course folder, making sure you also have the style sheet folder so that your css styles work properly.
+------------------------------------------------------
+Open each document in a text editor; add your name, date, course number, and assignment number at the top using an HTML comment block.  Then, for both pages, change the link to the jQuery library so that it references an external library instead of a local copy.
+------------------------------------------------------
+First, turn to page 188 in your textbook and begin working through the steps presented there.
+
+Next,  turn to page 197 and complete the second tutorial.
+Verify that the pages appear as required before you submit your work.  When finished, click the Assignment 5 link above, attach the two html files, and click the Submit button.
+
+Assignment Files:	 	login.html	 | 	animate.html

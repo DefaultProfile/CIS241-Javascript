@@ -1,0 +1,9 @@
+For this week's assignment, you will be presented with a page that has a lot of content and often requires the user to scroll way down to find what they want.  The goal in this assignment is to implement collapsible sections with headers above them that ask a question which the elements in the collapsible region answer.  When a question is clicked, the corresponding answer will appear.  When a question whose answer is visible is clicked, the answer will disappear.
+
+To complete the assignment, download the Web page file by clicking the link below and save it to your course folder.  Open the document in a text editor and add your name, date, course number, and assignment number at the top using an HTML comment block.
+
+Then, turn to page 174 in your textbook and begin working through the steps presented there.
+
+Verify the page appears as required before you submit your work.  When finished, click the Assignment 4 link above, attach the file, and click the Submit button.
+
+Assignment File:  faq.html
