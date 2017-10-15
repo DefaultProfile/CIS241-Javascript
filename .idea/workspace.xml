@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0af65d3a-a91a-467f-be64-fde0b8796ea8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="textbook_examples/-master-/logo.png" />
+    <ignored path="textbook_examples/-master-/README.md" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/.gitignore" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabBol-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabBol-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabBol-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabBol-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabLig-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabLig-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabLig-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabLig-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabMed-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabMed-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabMed-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabMed-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabReg-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabReg-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabReg-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabReg-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabThi-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabThi-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabThi-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/ColabThi-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/Inconsolata-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/Inconsolata-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/Inconsolata-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/Inconsolata-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/jquery-ui.min.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-italic-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-italic-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-italic-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-italic-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-regular-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-regular-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-regular-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-condensed-regular-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-italic-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-italic-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-italic-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-italic-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-regular-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-regular-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-regular-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/leaguegothic-regular-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/site.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/bg-footer.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/bg-page.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/bg-page2.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/bg_page.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/close.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/footer-bg.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/open.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/pencils.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/trashcan-empty-icon.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/trashcan-full-icon.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_js/jquery-1.11.0.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_js/jquery-ui.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_js/jquery-ui.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_js/jquery.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_js/site.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter01/complete_hello.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter01/complete_hello2.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter01/complete_slide.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter01/hello.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter01/hello2.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter01/slide.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter02/arrays.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter02/complete_arrays.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter02/complete_prompt.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter02/complete_use_variable.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter02/prompt.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter02/use_variable.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/complete_conditional.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/complete_do-while.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/complete_print_date.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/complete_quiz.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/conditional.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/friday_night.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/print_date.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter03/quiz.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter04/bibliography.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter04/complete_pull-quote.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter04/pull-quote.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter05/complete_events_intro.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter05/complete_faq.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter05/events_intro.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter05/faq.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter05/to-do-list.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/animate.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/callback.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_animate.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_login.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_login2.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/easing_example1.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/easing_example2.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/form.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/jquery-trigger-css-animation1.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/jquery-trigger-css-animation2.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/jquery-trigger-css-transition.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/login.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/multiple-callbacks.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/basic-lightbox.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_fancybox.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_gallery.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_menu.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_menu_blue.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_menu_clean.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_rollover.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_youtube.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/external.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/gallery.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/lightbox.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/menu.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/rollover.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/style.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/youtube.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/complete_form.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/complete_validation.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/example_form.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/form.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/process.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/validation.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/accordion.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/advanced_tooltips.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/bad_horiz_menu_multilevels.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_accordion.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_advanced_tooltips.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_dialog.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_dialog_buttons.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_dialog_properties.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_dialog_test.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_hello_world.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_horiz_menus.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_menu.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_tabs.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_tabs_with_custom_event.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/complete_tooltips.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/dialog.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/dialog_buttons.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/open_dialog_example.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/panel1.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/panel2.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/panel3.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/remote_tabs.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/tabs.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/tooltips.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/ui-template.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/airports.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/birth-date.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/buttons.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/colors.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/complete-birthdate.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/complete_form.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/form.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter10/form.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/checkers.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/complete-draggable-position-test.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/complete-draggable.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/complete-to-the-trash.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/drag-n-drop.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/draggable.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/game.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/interactions.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/nested-sortable.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/pattern-game.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/playlist.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/simple-playlist.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/test-sortable-events.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/to-the-trash.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter12/two-lists.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/complete_flickr.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/complete_flickr_limit_photos.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/complete_load.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/complete_login.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/flickr.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/flickr_json.txt" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/lastweek.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/load.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/login.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/login.php" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/today.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter13/yesterday.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/complete-index.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/complete-todo.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/index.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/serialize-todo-data.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/todo-build.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/todo.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/find.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/find3.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/nextall.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/nextall_hover.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/parent.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/siblings.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/wrap.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter16/example_regex.txt" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter16/getTime.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter16/time.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter17/complete_console.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter17/complete_debugger.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter17/console.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter17/debugger.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/array_methods.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/content_functions.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/effects.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/events.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/example_regex.txt" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/regex_tester.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/testbed/selectors.html" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/animated-overlay.gif" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_flat_10_000000_40x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_glass_65_ffffff_1x400.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-icons_222222_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-icons_228ef1_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-icons_ef8c08_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-icons_ffd27a_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_css/images/ui-icons_ffffff_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/_notes/dwsync.xml" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/blue.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/fan.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/green.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/milk.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/orange.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/purple.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/red.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/slide1.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/slide2.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/slide3.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/slide4.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/slide5.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/slide6.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/weight.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/large/yellow.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/blue.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/blue_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/green.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/green_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/orange.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/orange_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/purple.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/purple_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/red.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/red_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide1.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide1_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide2.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide2_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide3.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide3_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide4.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide4_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide5.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide5_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide6.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/slide6_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/yellow.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/_images/small/yellow_h.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/10_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/10_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/11_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/11_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/12_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/12_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/1_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/1_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/2_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/2_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/3_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/3_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/4_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/4_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/5_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/5_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/6_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/6_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/7_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/7_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/8_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/8_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/9_b.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/example/9_s.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/smartmenus/jquery.smartmenus.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/smartmenus/sm-blue.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/smartmenus/sm-clean.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/smartmenus/sm-core-css.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/smartmenus/sm-simple.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/jquery_validate/additional-methods.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter08/jquery_validate/jquery.validate.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/images/map.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter09/images/robot.jpg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/jquery-ui.min.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/todo.css" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/fonts/modernpics-webfont.eot" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/fonts/modernpics-webfont.svg" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/fonts/modernpics-webfont.ttf" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/fonts/modernpics-webfont.woff" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/js/jquery-ui.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/js/jquery.min.js" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/addressbook.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/attachment.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/bar_chart.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/configuration.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/digital_camera.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/email.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/export.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/group.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/lock.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/newsletter.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/smiley.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/stop_sign.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/support.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/undo.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/upload.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/user.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/vacancy.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter15/images/zoom_out.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/animated-overlay.gif" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_flat_10_000000_40x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-icons_222222_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-icons_228ef1_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-icons_ef8c08_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-icons_ffd27a_256x240.png" />
+    <ignored path="textbook_examples/-master-/MM_JAVASCRIPT3E/chapter14/css/images/ui-icons_ffffff_256x240.png" />
+    <ignored path="JavaScript &amp; jQuery- The Missing Manual, 3rd Edition.pdf" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="notesch7.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes/notesch7.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="8" column="161" lean-forward="true" selection-start-line="8" selection-start-column="161" selection-end-line="8" selection-end-column="161" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>document</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project1/script.js" />
+        <option value="bb.grcc.edu/webapps/blackboard/content/listContent.jsp?course_id=_17646779_1&amp;content_id=_4395909_1" />
+        <option value="$PROJECT_DIR$/Project2/asg3c.html" />
+        <option value="$PROJECT_DIR$/Project2/asg3d.html" />
+        <option value="$PROJECT_DIR$/Project2/asg3e.html" />
+        <option value="$PROJECT_DIR$/Project1/index.html" />
+        <option value="$PROJECT_DIR$/Project2/asg3a.html" />
+        <option value="$PROJECT_DIR$/Project2/notes.txt" />
+        <option value="$PROJECT_DIR$/Project2/asg3b.html" />
+        <option value="$PROJECT_DIR$/asg1/index.html" />
+        <option value="$PROJECT_DIR$/asg3/asg3b.html" />
+        <option value="$PROJECT_DIR$/asg4/notes" />
+        <option value="$PROJECT_DIR$/asg4/site.css" />
+        <option value="$PROJECT_DIR$/asg5/notes.txt" />
+        <option value="$PROJECT_DIR$/asg5/faq.html" />
+        <option value="$PROJECT_DIR$/asg4/pull-quote.html" />
+        <option value="$PROJECT_DIR$/asg6/notes.txt" />
+        <option value="/HTML Fragment (login.html:1210).html" />
+        <option value="$PROJECT_DIR$/asg6/animate.html" />
+        <option value="$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/animate.html" />
+        <option value="$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/login.html" />
+        <option value="$PROJECT_DIR$/Notes/notesch7.txt" />
+        <option value="$PROJECT_DIR$/asg6/login.html" />
+        <option value="$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_rollover.html" />
+        <option value="$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/rollover.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="461" />
+    <option name="width" value="1472" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CIS241 Javascript" type="cbb8eebc:String" user="CIS241 Javascript" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CIS241 Javascript" type="cbb8eebc:String" user="CIS241 Javascript" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CIS241 Javascript" type="cbb8eebc:String" user="CIS241 Javascript" />
+              <item name="Project1" type="cbb8eebc:String" user="Project1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CIS241 Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS241 Javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS241 Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS241 Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="asg7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS241 Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS241 Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS241 Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS241 Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="textbook_examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS241 Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS241 Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="textbook_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="-master-" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.21052632" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-1.0.3/resources/app/git/cmd/git.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value=":&#9;null&#9;null" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nathanst\Dropbox\GRCC Projects\CIS241 Javascript\asg7" />
+      <recent name="C:\Users\nathanst\Dropbox\GRCC Projects\CIS241 Javascript\asg6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nathanst\Dropbox\GRCC Projects\CIS241 Javascript\textbook_examples\-master-\MM_JAVASCRIPT3E\chapter07\smartmenus" />
+      <recent name="C:\Users\nathanst\Dropbox\GRCC Projects\CIS241 Javascript\textbook_examples\-master-\MM_JAVASCRIPT3E\chapter06" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.complete_rollover.html">
+    <configuration name="animate.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CIS241 Javascript/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/animate.html" />
+    <configuration name="complete_animate.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CIS241 Javascript/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_animate.html" />
+    <configuration name="complete_login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CIS241 Javascript/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_login.html" />
+    <configuration name="complete_rollover.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CIS241 Javascript/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_rollover.html" />
+    <configuration name="login.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CIS241 Javascript/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/login.html" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.complete_login.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.login.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.animate.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.complete_animate.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.complete_rollover.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.complete_rollover.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.complete_animate.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.animate.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.login.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.complete_login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\nathanst\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af65d3a-a91a-467f-be64-fde0b8796ea8" name="Default" comment="" />
+      <created>1505612825888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505612825888</updated>
+      <workItem from="1505612828115" duration="4702000" />
+      <workItem from="1505618269178" duration="7136000" />
+      <workItem from="1505673768017" duration="1879000" />
+      <workItem from="1505675718729" duration="969000" />
+      <workItem from="1505676718021" duration="4961000" />
+      <workItem from="1505703972977" duration="3288000" />
+      <workItem from="1505708758291" duration="3781000" />
+      <workItem from="1506110122430" duration="613000" />
+      <workItem from="1506124736342" duration="1209000" />
+      <workItem from="1506193371709" duration="1086000" />
+      <workItem from="1506223065500" duration="988000" />
+      <workItem from="1506286681191" duration="5338000" />
+      <workItem from="1506359021437" duration="2036000" />
+      <workItem from="1507248755583" duration="3605000" />
+      <workItem from="1507306923533" duration="687000" />
+      <workItem from="1507343290448" duration="4169000" />
+      <workItem from="1507673119152" duration="3797000" />
+      <workItem from="1507683036917" duration="967000" />
+      <workItem from="1507684025251" duration="343000" />
+      <workItem from="1507684384080" duration="597000" />
+      <workItem from="1508056293708" duration="6593000" />
+    </task>
+    <task id="LOCAL-00001" summary="Removed textbook examples and book">
+      <created>1505710009269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505710009269</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Chapter 7 Tutorial 1">
+      <created>1508098779429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508098779429</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Chapter 7 Tutorial 1">
+      <created>1508099453897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508099453897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66128000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.268435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.401227" sideWeight="0.50185674" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3214724" sideWeight="0.49814323" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="eSnippet Pro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="eSnippet Pro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.401227" sideWeight="0.50185674" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760736" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25145888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14336075" sideWeight="0.49814323" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../GIT-BASE" />
+      <path value="$PROJECT_DIR$/../../GIT-BASE/GRCC Projects/CIS241 Javascript" />
+    </ignored-roots>
+    <MESSAGE value="Removed textbook examples and book" />
+    <MESSAGE value="Added Chapter 7 Tutorial 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 7 Tutorial 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/asg1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://bb.grcc.edu/webapps/blackboard/content/listContent.jsp?course_id=_17646779_1&amp;content_id=_4395909_1">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/asg3b.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3c.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3d.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3e.html" />
+    <entry file="file://$PROJECT_DIR$/asg1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/notes.txt" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3a.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3a.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3a.html" />
+    <entry file="file://$PROJECT_DIR$/asg1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://bb.grcc.edu/webapps/blackboard/content/listContent.jsp?course_id=_17646779_1&amp;content_id=_4395909_1">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/asg3c.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3d.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3e.html" />
+    <entry file="file://$PROJECT_DIR$/asg1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/asg3b.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/asg3a.html" />
+    <entry file="file://$PROJECT_DIR$/Project2/notes.txt" />
+    <entry file="file://$PROJECT_DIR$/asg1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg3/asg3b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg4/__MACOSX/._pull-quote.html" />
+    <entry file="file://$PROJECT_DIR$/asg4/__MACOSX/._site.css" />
+    <entry file="file://$USER_HOME$/Downloads/ch4_asg_files/pull-quote.html" />
+    <entry file="file://$PROJECT_DIR$/asg3/asg3a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/_js/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137479">
+          <caret line="7673" column="34" lean-forward="true" selection-start-line="7673" selection-start-column="34" selection-end-line="7673" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg4/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg4/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="0" column="622" lean-forward="true" selection-start-line="0" selection-start-column="622" selection-end-line="0" selection-end-column="622" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg5/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg5/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg4/pull-quote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg6/site.css" />
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_animate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/complete_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/animate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter06/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg6/animate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/smartmenus/rollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg6/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/complete_rollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/rollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asg7/rollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/notesch7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="8" column="161" lean-forward="true" selection-start-line="8" selection-start-column="161" selection-end-line="8" selection-end-column="161" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textbook_examples/-master-/MM_JAVASCRIPT3E/chapter07/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
