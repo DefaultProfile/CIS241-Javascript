@@ -1,6 +1,9 @@
 This week's assignment has you complete three tutorials from Chapter 7.  Begin by downloading the example files in the link in the Learning Resources section above. Save the file and extract the folder within it. Complete the tutorials referenced below using the appropriate HTML document as directed.
 
-Adding rollover images, pages 215 to 219
-Implementing thumbnails, pages 220 to 225
-Creating a responsive navigation bar, pages 245 to 249
+-Adding rollover images, pages 215 to 219
+
+-Implementing thumbnails, pages 220 to 225
+
+-Creating a responsive navigation bar, pages 245 to 249
+
 Verify that the pages appear as required before you submit your work. When finished, click the Chapter 7 Assignment link above, attach the files, and click the Submit button.
